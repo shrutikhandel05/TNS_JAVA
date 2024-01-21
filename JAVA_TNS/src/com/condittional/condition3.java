@@ -1,7 +1,8 @@
 package com.condittional;
 import java.util.*;
-public class condition3 
-{5
+public class condition3
+//nested if else statement
+{
 	public static void main(String[] args) {
 	 Scanner sc = new Scanner(System.in);
      System.out.println("Enter your age:");
