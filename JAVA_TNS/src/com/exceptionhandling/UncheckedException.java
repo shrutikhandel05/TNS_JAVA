@@ -1,7 +1,7 @@
 package com.exceptionhandling;
 //simple try catch block to handle exception
-//exception handling is used to make the software more userfriendly by handling the exception
-//we handled the exception by puting a user friendly message to the user instead of that exception
+//exception handling is used to make the software more user friendly by handling the exception
+//we handled the exception by putting a user friendly message to the user instead of that exception
 public class UncheckedException {
 
 	public static void main(String[] args) {
